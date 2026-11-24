@@ -1,0 +1,7 @@
+<resources>
+    <!-- Tema gelap supaya teks Spinner/Button terbaca -->
+    <style name="Theme.robotkotak222" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorAccent">@color/pink</item>
+    </style>
+</resources>

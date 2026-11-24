@@ -1,0 +1,4 @@
+../Core/Src/encoder.c:9:6:Encoder_Init	1
+../Core/Src/encoder.c:19:6:Encoder_Update	3
+../Core/Src/encoder.c:42:9:Encoder_GetPosition	1
+../Core/Src/encoder.c:47:6:Encoder_ResetPosition	1
